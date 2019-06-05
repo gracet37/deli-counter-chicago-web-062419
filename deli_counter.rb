@@ -12,4 +12,4 @@ else
   return "The line is currently: #{katz}"
 end
 end
-
+end
