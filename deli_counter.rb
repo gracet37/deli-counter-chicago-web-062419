@@ -14,4 +14,4 @@ def line(array)
  end
  end
  
- 
+ def take_a_number(array,string)
