@@ -20,5 +20,10 @@ puts "Welcome, #{string}. You are number #{array.length} in line."
 end 
 
 def now_serving(array)
-  puts "Currently serving #{array.shift}."
+ if array.empty?
+  puts "There is nobody witing to be served!"
+   else 
+     puts "Currently serving #{array.shift}."
+end
+end
 
