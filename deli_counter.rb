@@ -18,3 +18,4 @@ def line(array)
    array << string
 puts "Welcome, #{string}. You are number #{array.length} in line."
 end 
+
