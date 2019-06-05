@@ -15,4 +15,4 @@ def line(array)
  end
  
  def take_a_number(array,string)
-puts "Welcome"
+puts "Welcome, #{string}, 
