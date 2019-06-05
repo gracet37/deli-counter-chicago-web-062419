@@ -20,5 +20,5 @@ puts "Welcome, #{string}. You are number #{array.length} in line."
 end 
 
 def now_serving(array)
-  
+  puts "Currently serving #{array.pop}"
 
