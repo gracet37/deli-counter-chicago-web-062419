@@ -13,3 +13,5 @@ def line(array)
    puts current_line
  end
  end
+ 
+ 
