@@ -10,5 +10,4 @@ else
    return "#{index+1}. #{name}""
 end
 end
-end
 
