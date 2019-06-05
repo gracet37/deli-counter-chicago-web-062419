@@ -8,4 +8,4 @@ def line(array)
  else 
    current line = "The line is currently: "
    array.each_with_index(1) do |name,i|
-     puts 
+     current
