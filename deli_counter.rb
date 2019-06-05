@@ -15,6 +15,6 @@ def line(array)
  end
  
  def take_a_number(array,string)
-   deli << string
+   array << string
 puts "Welcome, #{string}. You are number #{array.length} in line."
 end 
